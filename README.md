@@ -6,5 +6,5 @@ RUN:
 make clean
 make
 ./mp8
-2 2
+4 4
 
